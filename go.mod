@@ -1,3 +1,3 @@
-module github.com/bep/hugoTestModule2
+module github.com/gohugoio/hugoTestModule2
 
 go 1.13
