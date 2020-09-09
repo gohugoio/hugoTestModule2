@@ -1,0 +1,10 @@
+
+[params]
+hugo = "Rocks"
+
+[module]
+[[module.mounts]]
+source = "templates/hooks"
+target = "layouts/_default/_markup"
+[[module.imports]]
+path = "github.com/gohugoio/hugo-mod-jslibs/alpinejs"

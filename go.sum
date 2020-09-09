@@ -1,0 +1,4 @@
+github.com/alpinejs/alpine v2.6.0+incompatible/go.mod h1:BKI81egATMnaKqFeX5HEfYMnjZjcjcZmrYAu5Nck+EY=
+github.com/gohugoio/hugo-mod-jslibs v0.0.0-20200824210130-fc4ffd0cae1a h1:VbLACuTbvfgSgBAP5WN0DER/jjXbRCma6ugAMseWv8U=
+github.com/gohugoio/hugo-mod-jslibs/alpinejs v0.5.0 h1:OcDJvjE96GA9cSHAQBYNspozO2jF8GYt9rOz5poa0BY=
+github.com/gohugoio/hugo-mod-jslibs/alpinejs v0.5.0/go.mod h1:XvAGp/0tQ8bZpoCcM6rdx1NbzZUy3/KtetedtdgaNek=
