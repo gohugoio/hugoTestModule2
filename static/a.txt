@@ -1,0 +1,1 @@
+static/a.txt from github.com/gohugoio/hugoTestModule2

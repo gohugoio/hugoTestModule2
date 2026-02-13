@@ -1,10 +1,12 @@
-
 [params]
-hugo = "Rocks"
+  hugo = "Rocks"
 
 [module]
-[[module.mounts]]
-source = "templates/hooks"
-target = "layouts/_default/_markup"
-[[module.imports]]
-path = "github.com/gohugoio/hugo-mod-jslibs/alpinejs"
+  [[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-jslibs/alpinejs"
+  [[module.mounts]]
+    source = "templates/hooks"
+    target = "layouts/_default/_markup"
+  [[module.mounts]]
+    source = 'static'
+    target = 'static'
