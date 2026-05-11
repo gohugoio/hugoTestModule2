@@ -8,6 +8,9 @@
     source = "templates/hooks"
     target = "layouts/_default/_markup"
   [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
     source = 'static'
     target = 'static'
   [[module.mounts]]
